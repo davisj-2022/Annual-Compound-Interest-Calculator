@@ -16,3 +16,20 @@ second should show the year-end balances and year-end earned interest based on t
 deposit value that was input by the user ($50.00 in this example). The following is an example of <br>
 what your interface might look like. It is in no way representative of what it must look like. Be <br>
 creative and keep the user experience in mind when designing your solution<br>
+
+
+code will need to account for the following:<br>
+a. Month: The number of months based on user input in the “Number of Years” field<br>
+b. Opening Amount: The initial investment amount as well as the opening balance each <br>
+month, which includes interest<br>
+c. Deposited Amount: The dollar amount the user plans to deposit each month. This value <br>
+will be the same every month for the duration of the investment. <br>
+d. Total: The sum of the opening and deposited amounts<br>
+e. Interest: Money earned based on the “annual interest” rate input by the user. The <br>
+interest based on an opening amount of $1 and a deposited amount of $50 with an<br> 
+interest rate of 5% compounded monthly is:<br>
+(Opening Amount + Deposited Amount) * ((Interest Rate/100)/12) <br>OR <br>(1 + 50) * ((5/100)/12) <br>
+Note: Dividing by 100 converts the interest rate percentage to a decimal.<br>
+Note: 12 is the number of months in a year. Dividing the yearly amount by twelve gives <br>
+monthly compounded interest.<br>
+f. Closing Balance: The sum of the total and interest amounts<br>
