@@ -25,7 +25,7 @@ month, which includes interest<br>
 c. <b>Deposited Amount:</b> The dollar amount the user plans to deposit each month. This value <br>
 will be the same every month for the duration of the investment. <br>
 d. <b>Total:</b> The sum of the opening and deposited amounts<br>
-e. <b>Interest:<b> Money earned based on the “annual interest” rate input by the user. The <br>
+e. <b>Interest:</b> Money earned based on the “annual interest” rate input by the user. The <br>
 interest based on an opening amount of $1 and a deposited amount of $50 with an<br> 
 interest rate of 5% compounded monthly is:<br>
 <br>
