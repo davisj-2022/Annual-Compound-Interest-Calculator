@@ -22,7 +22,6 @@ The program is maintainable, readable, and adaptable through the use of in-line 
 =========================================================================
 <br>
 Project Description<br>
-=========================================================================
 
 Airgead Banking wants a screen to display with the following information:
 
