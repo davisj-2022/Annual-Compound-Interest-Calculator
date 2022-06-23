@@ -2,11 +2,20 @@
 CS210_Project2
 <br>
 <br>
-Successful in creating working code that calculates interest based on user input.<br>
+What did you do particularly well?<br>
+Successful in creating working code that calculates interest based on user input.<br><br>
+Where could you enhance your code?<br>
 Code enhancement will be on going.  Code standardization will be an area of improvement.<br>
+<br>
+Which pieces of the code did you find most challenging to write, and how did you overcome this?<br>
+Most challenging would be using the differnt loops. <br>
 I was able to overcome the challenge of using different loops to display calculations and print statements. <br>
+<br>
+What skills from this project will be particularly transferable to other projects or course work?<br>
 Continuing to work on foundation skills from this project will be particularly transferable to other projects and course work.<br>
+<br>
 The program is maintainable, readable, and adaptable through the use of in-line comments.<br>
+<br>
 
 
 
