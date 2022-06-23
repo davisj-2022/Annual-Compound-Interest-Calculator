@@ -10,10 +10,11 @@ The program is maintainable, readable, and adaptable through the use of in-line 
 
 
 
-
-Overcame loop calculations and print statements
-
-
+=========================================================================================================================================
+<br>
+Project Description
+<br>
+<br>
 Airgead Banking wants a screen to display with the following information:
 
 • Initial Investment Amount: The starting amount of your investment (a positive real number) <br>
