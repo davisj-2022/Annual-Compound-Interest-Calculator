@@ -1,5 +1,16 @@
 # Annual-Compound-Interest-Calculator
 CS210_Project2
+<br>
+<br>
+Successful in creating working code that calculates interest based on user input.<br>
+Code enhancement will be on going.  Code standardization will be an area of improvement.<br>
+I was able to overcome the challenge of using different loops to display calculations and print statements. <br>
+Continuing to work on foundation skills from this project will be particularly transferable to other projects and course work.<br>
+The program is maintainable, readable, and adaptable through the use of in-line comments.<br>
+
+
+
+
 Overcame loop calculations and print statements
 
 
