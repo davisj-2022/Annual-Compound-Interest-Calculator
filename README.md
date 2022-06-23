@@ -1,5 +1,7 @@
 # Annual-Compound-Interest-Calculator
 CS210_Project2
+Overcame loop calculations and print statements
+
 
 Airgead Banking wants a screen to display with the following information:
 
