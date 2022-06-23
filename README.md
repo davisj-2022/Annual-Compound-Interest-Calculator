@@ -36,4 +36,4 @@ interest rate of 5% compounded monthly is:<br>
   <b>Note:</b> 12 is the number of months in a year. Dividing the yearly amount by twelve gives <br>
 monthly compounded interest.<br>
 <br>
-f. <b>Closing Balance:<b> The sum of the total and interest amounts<br>
+f. <b>Closing Balance:</b> The sum of the total and interest amounts<br>
